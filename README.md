@@ -1,6 +1,6 @@
 # Hi, I'm Akorede
 
-I'm a **Junior Machine Learning Engineer** focused on building reliable, well-evaluated ML systems. My interests span supervised and unsupervised learning, with an emphasis on feature engineering, careful evaluation, and clear explanations of results and limitations.
+I'm a **Machine Learning Engineer** focused on building practical ML systems and understanding why models succeed or fail. I work mainly with Python, scikit-learn, XGBoost, and time-series and tabular data, with an emphasis on feature engineering, rigorous evaluation, and avoiding misleading results.
 
 **Tools:** Python, pandas, NumPy, scikit-learn, XGBoost, Matplotlib, and Jupyter Notebook.
 
