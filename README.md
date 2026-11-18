@@ -7,14 +7,14 @@ I'm a **Machine Learning Engineer** focused on building practical ML systems and
 ## Selected projects
 
 1. **[BTC 5-Minute Direction Prediction](https://github.com/Akorede-02/btc-5m-direction-prediction)**  
-   Compared Logistic Regression and XGBoost for short-horizon BTC direction prediction. Used expanding walk-forward validation with a forecast-horizon gap; the tested features did not demonstrate a robust predictive signal.
+   Compared Logistic Regression and XGBoost for short-horizon BTC direction prediction using leakage-aware walk-forward validation.
 
 2. **[Nigerian Bank Fraud Detection](https://github.com/Akorede-02/nigerian-bank-fraud-detection)**  
-   Investigated class imbalance across 5 million synthetic banking transactions. Compared four models and used feature ablation to explain their dependence on nighttime patterns, highlighting the tradeoff between fraud recall and false positives.
+   Analyzed 5 million synthetic banking transactions, comparing four models and using feature ablation to investigate a dominant nighttime fraud pattern.
 
 3. **[Medical Insurance Cost Prediction](https://github.com/Akorede-02/medical-insurance-cost-prediction)**  
-   Built a Linear Regression model with nonlinear and interaction features, improving test R² from 0.784 to 0.869. Evaluated performance using RMSE, MAE, and R².
+   Improved a Linear Regression model from 0.784 to 0.869 test R² through nonlinear and interaction feature engineering.
 
 ## Opportunities
 
-Open to junior Machine Learning Engineering roles and internships.
+Open to junior Machine Learning Engineer roles and internships, particularly in applied ML, time series, and data-driven systems.
