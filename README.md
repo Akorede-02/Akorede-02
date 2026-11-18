@@ -1,6 +1,6 @@
 # Hi, I'm Akorede
 
-I'm building a career in **Machine Learning Engineering**, with a focus on junior opportunities. My projects explore classification, regression, and time-series modeling, with an emphasis on feature engineering, careful evaluation, and clear explanations of results and limitations.
+I'm building a career in **Machine Learning Engineering**, with a focus on junior opportunities. My interests span supervised and unsupervised learning, with an emphasis on feature engineering, careful evaluation, and clear explanations of results and limitations.
 
 **Tools:** Python, pandas, NumPy, scikit-learn, XGBoost, Matplotlib, and Jupyter Notebook.
 
